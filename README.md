@@ -1,10 +1,8 @@
-Exceptional Realty Group Website
----
+# Bootstrap Navbar Codealong
 
-# Description
 
-This is an example site for the Intro to Front-end Web Development Course at The Flatiron School.
+<iframe width="640" height="480" src="//www.youtube.com/embed/bWVUo67pShU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 
-# Contact
+<p><a href="https://www.youtube.com/watch?v=bWVUo67pShU">Bootstrap Navbar Codealong</a></p>.
 
-email: fake@fake.com
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-navbar-code-along' title='Bootstrap Navbar Codealong'>Bootstrap Navbar Codealong</a> on Learn.co and start learning to code for free.</p>
